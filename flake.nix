@@ -14,7 +14,7 @@
                 owner = "dopsi";
                 repo = "console-tdm";
                 rev = "develop";
-                hash = "sha256-tkG3T1o/42m1absLuQHL/FKVPAA/u/ajBYDf4o1m2WQ=";
+                hash = "sha256-duMLkAPLcXdDWfCOo7ZEhwWLv7rT8OtsbsZS3PFZYTg=";
             };
 
            installPhase = ''echo "skiping..."'';
